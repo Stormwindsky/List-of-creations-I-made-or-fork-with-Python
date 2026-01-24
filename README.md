@@ -17,3 +17,7 @@ https://github.com/Stormwindsky/Picxo
 # Spyke:
 
 https://github.com/Stormwindsky/Spyke/
+
+# StormBrowser:
+
+https://github.com/Stormwindsky/StormBrowser
