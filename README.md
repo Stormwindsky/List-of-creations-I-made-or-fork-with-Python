@@ -2,6 +2,18 @@
 List of creations I made / fork with Python
 
 
-# TwoD
+# TwoD:
 
 https://github.com/Stormwindsky/TwoD
+
+# DVDlhcS:
+
+https://github.com/Stormwindsky/DVD-logo-hitting-corner-Simulator/
+
+# Picxo:
+
+https://github.com/Stormwindsky/Picxo
+
+# Spyke:
+
+https://github.com/Stormwindsky/Spyke/
